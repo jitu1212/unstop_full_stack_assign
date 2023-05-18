@@ -1,0 +1,37 @@
+.seat-container { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .seat-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .seat {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+    background-color: lightgray;
+    cursor: pointer;
+  }
+  
+  .reserved {
+    background-color: red;
+  }
+  
+  .available {
+    background-color: green;
+  }
+  
+  button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: rgb(41, 166, 126);
+  }
+  
