@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+## deploy link
+https://unstop-sde-assignment.netlify.app/
 In the project directory, you can run:
 
 ### `npm start`
