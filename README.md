@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## this is unstop Assignment
+
 ## Available Scripts
 ## deploy link
 https://unstop-sde-assignment.netlify.app/
